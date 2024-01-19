@@ -1,0 +1,14 @@
+D:\des\Rafa\Rafa\obj\Debug\net8.0\Rafa.GeneratedMSBuildEditorConfig.editorconfig
+D:\des\Rafa\Rafa\obj\Debug\net8.0\Rafa.AssemblyInfoInputs.cache
+D:\des\Rafa\Rafa\obj\Debug\net8.0\Rafa.AssemblyInfo.cs
+D:\des\Rafa\Rafa\obj\Debug\net8.0\Rafa.csproj.CoreCompileInputs.cache
+D:\des\Rafa\Rafa\bin\Debug\net8.0\Rafa.exe
+D:\des\Rafa\Rafa\bin\Debug\net8.0\Rafa.deps.json
+D:\des\Rafa\Rafa\bin\Debug\net8.0\Rafa.runtimeconfig.json
+D:\des\Rafa\Rafa\bin\Debug\net8.0\Rafa.dll
+D:\des\Rafa\Rafa\bin\Debug\net8.0\Rafa.pdb
+D:\des\Rafa\Rafa\obj\Debug\net8.0\Rafa.dll
+D:\des\Rafa\Rafa\obj\Debug\net8.0\refint\Rafa.dll
+D:\des\Rafa\Rafa\obj\Debug\net8.0\Rafa.pdb
+D:\des\Rafa\Rafa\obj\Debug\net8.0\Rafa.genruntimeconfig.cache
+D:\des\Rafa\Rafa\obj\Debug\net8.0\ref\Rafa.dll
